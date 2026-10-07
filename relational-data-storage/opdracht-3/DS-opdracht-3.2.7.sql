@@ -4,4 +4,4 @@ SELECT
     huisnr,
     postcode
 FROM mhl.mhl_suppliers
-WHERE name LIKE "'t%"
+WHERE name LIKE "\'t%"
