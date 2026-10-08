@@ -1,5 +1,5 @@
--- CREATE VIEW DIRECTIE
--- AS
+CREATE VIEW DIRECTIE
+AS
 SELECT 
     cont.`supplier_ID`,
     cont.name AS contact,
