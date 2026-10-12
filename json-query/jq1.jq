@@ -1,0 +1,1 @@
+.[] | {country: .country, pop_density_1970: .population_1970 / .area_km2}
